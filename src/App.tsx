@@ -7,6 +7,7 @@ import ratings from './ratings'
 import { Radar } from 'react-chartjs-2'
 import find from 'lodash/find'
 import 'typeface-roboto'
+import LazyLoad from 'react-lazyload'
 
 function App() {
   const { isLoading, data } = useFetch('https://api.fiveringsdb.com/cards')
@@ -65,17 +66,20 @@ function App() {
                   .image_url ? (
                 <h4>No image found</h4>
               ) : (
-                <img
-                  style={{
-                    width: '100%',
-                    height: 'auto',
-                  }}
-                  src={
-                    !!data &&
-                    find(data.records, { name: card.name }).pack_cards[0]
-                      .image_url
-                  }
-                />
+                <LazyLoad height={300} offset={100}>
+                  <img
+                    alt={card.name}
+                    style={{
+                      width: '100%',
+                      height: 'auto',
+                    }}
+                    src={
+                      !!data &&
+                      find(data.records, { name: card.name }).pack_cards[0]
+                        .image_url
+                    }
+                  />
+                </LazyLoad>
               )}
             </div>
             <div style={{ flex: '0 0 350px' }}>
