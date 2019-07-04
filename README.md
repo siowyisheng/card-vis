@@ -1,2 +1,3 @@
-# card-vis
-Card visualizations with react, react-chartjs2
+## card-vis
+
+Some card visualizations with react and react-chartjs-2
