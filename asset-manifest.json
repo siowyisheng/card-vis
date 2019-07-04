@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/card-vis/static/css/main.d12b4f28.chunk.css",
+    "main.js": "/card-vis/static/js/main.621af5c5.chunk.js",
+    "main.js.map": "/card-vis/static/js/main.621af5c5.chunk.js.map",
+    "runtime~main.js": "/card-vis/static/js/runtime~main.4d4070c1.js",
+    "runtime~main.js.map": "/card-vis/static/js/runtime~main.4d4070c1.js.map",
+    "static/css/2.ffa43ee8.chunk.css": "/card-vis/static/css/2.ffa43ee8.chunk.css",
+    "static/js/2.0b29b19c.chunk.js": "/card-vis/static/js/2.0b29b19c.chunk.js",
+    "static/js/2.0b29b19c.chunk.js.map": "/card-vis/static/js/2.0b29b19c.chunk.js.map",
+    "index.html": "/card-vis/index.html",
+    "precache-manifest.4f7576fbc85dfdd3b96c1492537cc72f.js": "/card-vis/precache-manifest.4f7576fbc85dfdd3b96c1492537cc72f.js",
+    "service-worker.js": "/card-vis/service-worker.js",
+    "static/css/2.ffa43ee8.chunk.css.map": "/card-vis/static/css/2.ffa43ee8.chunk.css.map",
+    "static/css/main.d12b4f28.chunk.css.map": "/card-vis/static/css/main.d12b4f28.chunk.css.map",
+    "static/media/index.css": "/card-vis/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
+}
