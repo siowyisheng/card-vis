@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "541787b58a18781be776288d449d5091",
+    "revision": "649b30b6531dc096c82173a172b2af1a",
     "url": "/card-vis/index.html"
   },
   {
-    "revision": "c76ae777bc8f34315856",
+    "revision": "1ca2f912af9a829ca675",
     "url": "/card-vis/static/css/2.ffa43ee8.chunk.css"
   },
   {
-    "revision": "83c89af0a2b3d08cca92",
+    "revision": "9c4f5949c82a162a4bbb",
     "url": "/card-vis/static/css/main.d12b4f28.chunk.css"
   },
   {
-    "revision": "c76ae777bc8f34315856",
-    "url": "/card-vis/static/js/2.0b29b19c.chunk.js"
+    "revision": "1ca2f912af9a829ca675",
+    "url": "/card-vis/static/js/2.9abb83e8.chunk.js"
   },
   {
-    "revision": "83c89af0a2b3d08cca92",
-    "url": "/card-vis/static/js/main.621af5c5.chunk.js"
+    "revision": "9c4f5949c82a162a4bbb",
+    "url": "/card-vis/static/js/main.ca37a5a5.chunk.js"
   },
   {
     "revision": "da5f6c9df54885e10315",
